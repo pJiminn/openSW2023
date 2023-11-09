@@ -1,6 +1,6 @@
 #include "funcs.h"
 
-int foo(){
+void foo(){
     printf("foo");
-    return 0;
+    
 }
