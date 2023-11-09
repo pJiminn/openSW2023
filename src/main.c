@@ -3,6 +3,6 @@
 int main(){
 
     foo(30);
-    goo();
+    goo(2023);
     return 0;
 }

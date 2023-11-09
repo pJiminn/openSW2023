@@ -1,6 +1,6 @@
 #include "funcs.h"
 
-void goo(){
-    printf("goo");
+void goo(int num){
+    printf("goo %d",num);
     
 }
