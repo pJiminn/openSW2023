@@ -2,5 +2,5 @@
 
 void foo(){
     printf("foo");
-    
+    printf("foo is poo");
 }
