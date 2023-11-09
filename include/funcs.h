@@ -1,3 +1,3 @@
 #include <stdio.h>
-void foo();
-void goo();
+void foo(int num);
+void goo(int num);
